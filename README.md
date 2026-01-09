@@ -51,7 +51,7 @@
   
   <img width="93" height="471" alt="image" src="https://github.com/user-attachments/assets/5c39d031-0861-4026-804f-6aa2576a1b23" />
 
-10. n order to anonymise your data, you want to create pseudonyms for your customers. - Add a column called 'pseudonym' to the customer table,
+10. In order to anonymise your data, you want to create pseudonyms for your customers. - Add a column called 'pseudonym' to the customer table,
     - Fill in the column so that the pseudonym is created from the first two letters of the first name and the last letter of the last name. E.g. Natalie Pilling → Nag
       
     <img width="231" height="47" alt="image" src="https://github.com/user-attachments/assets/443548cb-2da7-43c5-b3b3-1bd8fbe55908" />
@@ -62,7 +62,41 @@
     
     <img width="484" height="225" alt="image" src="https://github.com/user-attachments/assets/a041ce3f-2316-47cb-9c13-812609c15bb6" />
 
+11. I downloaded too much money from a customer who recently bought a film with id 4. Using the join function, check the customer's name and email.
+    
+    <img width="368" height="104" alt="image" src="https://github.com/user-attachments/assets/3f849b92-124c-4f25-a468-35f2bda4d103" />
+    
+    <img width="162" height="59" alt="image" src="https://github.com/user-attachments/assets/e08370d6-9b49-427d-91ba-4590201a2231" />
 
+12. I'm sure you noticed that the seller forgot to enter the email of customer Patricia. Make up for this omission by entering: pati@mail.com.
+    
+    <img width="221" height="66" alt="image" src="https://github.com/user-attachments/assets/b46bc1f2-6ed5-4096-88a7-130262ef3460" />
+    
+    <img width="390" height="197" alt="image" src="https://github.com/user-attachments/assets/f2072fdb-9c65-4500-82c3-1b17510c6b35" />
+
+13. For each purchase, display the name of the customer who made the rental and the title of the film rented. (Use the inner join function to do this, think beforehand which tables you will need for the exercise).
+    
+    <img width="531" height="84" alt="image" src="https://github.com/user-attachments/assets/b818b093-fed4-42b6-9f88-41b936d412da" />
+    
+    <img width="366" height="419" alt="image" src="https://github.com/user-attachments/assets/6949d7ba-8afd-4362-b554-cd8b021cf761" />
+
+14. Display the titles of the films that have been purchased, display the table so that the titles are not repeated.
+
+    <img width="380" height="68" alt="image" src="https://github.com/user-attachments/assets/3390f0ce-1406-41ba-9f0f-66d5021ddd73" />
+
+    <img width="413" height="108" alt="image" src="https://github.com/user-attachments/assets/ebad4be7-c266-4296-8480-956959b20b63" />
+
+15. Display the name of the actor with id 4 and the title of the film he played in.
+
+    <img width="211" height="58" alt="image" src="https://github.com/user-attachments/assets/ac7e8463-36e6-4905-98a4-50ec0dffd749" />
+
+    <img width="564" height="51" alt="image" src="https://github.com/user-attachments/assets/c4de0d45-4068-480b-b758-15600e083d0a" />
+
+16. Add a new tuple to the customers table, where customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com and pseudonym = Hoa.
+    
+    <img width="486" height="226" alt="image" src="https://github.com/user-attachments/assets/f0e61ac5-c8f1-4721-92e7-570947ef8536" />
+    
+    <img width="486" height="226" alt="image" src="https://github.com/user-attachments/assets/033c5cff-2ea8-44c0-8fb7-341c99f9d049" />
 
 
 
