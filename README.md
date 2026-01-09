@@ -84,19 +84,22 @@
 
     <img width="380" height="68" alt="image" src="https://github.com/user-attachments/assets/3390f0ce-1406-41ba-9f0f-66d5021ddd73" />
 
-    <img width="413" height="108" alt="image" src="https://github.com/user-attachments/assets/ebad4be7-c266-4296-8480-956959b20b63" />
+   <img width="235" height="289" alt="image" src="https://github.com/user-attachments/assets/5c7798b9-f0b0-4f05-9b57-85c17edd66f9" />
+
 
 15. Display the name of the actor with id 4 and the title of the film he played in.
 
-    <img width="211" height="58" alt="image" src="https://github.com/user-attachments/assets/ac7e8463-36e6-4905-98a4-50ec0dffd749" />
+    <img width="413" height="108" alt="image" src="https://github.com/user-attachments/assets/8b84193c-ed4f-4a76-acdd-5244197c3de6" />
 
-    <img width="564" height="51" alt="image" src="https://github.com/user-attachments/assets/c4de0d45-4068-480b-b758-15600e083d0a" />
+    <img width="211" height="58" alt="image" src="https://github.com/user-attachments/assets/bbb860da-2440-42be-8124-c34afbb8a1fb" />
+
 
 16. Add a new tuple to the customers table, where customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com and pseudonym = Hoa.
     
-    <img width="486" height="226" alt="image" src="https://github.com/user-attachments/assets/f0e61ac5-c8f1-4721-92e7-570947ef8536" />
+    <img width="564" height="51" alt="image" src="https://github.com/user-attachments/assets/2be1909a-f825-42c7-99e8-246c63c3344d" />
     
-    <img width="486" height="226" alt="image" src="https://github.com/user-attachments/assets/033c5cff-2ea8-44c0-8fb7-341c99f9d049" />
+    <img width="486" height="226" alt="image" src="https://github.com/user-attachments/assets/f83e2127-58d9-49a2-89f6-6bbdae1b4c51" />
+
 
 
 
